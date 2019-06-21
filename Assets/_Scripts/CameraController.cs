@@ -7,12 +7,10 @@ public class CameraController : MonoBehaviour {
 
     private List<Vector3> points = new List<Vector3>();
 
-	// Use this for initialization
 	void Start () {
 		
 	}
 	
-	// Update is called once per frame
 	void Update () {
 	}
 
